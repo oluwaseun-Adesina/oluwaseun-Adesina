@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **interesting Projects**
 
 - 🤝 I’m looking for **Internship / Junior Backend Developer Role**
+- 
+- 😊 I’m looking for help with **open-source projects, hackathons, internships, and entry-level opportunities**.
 
 <!-- - 💬 Ask me about **Adobe Audition** -->
 
